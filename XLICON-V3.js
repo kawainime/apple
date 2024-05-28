@@ -11584,7 +11584,7 @@ ${mot} 𝗗𝗮𝘁𝗲 : ${xdate}
             XliconBotInc.sendMessage(
               m.chat,
               {
-                image: fs.readFileSync("./XliconMedia/theme/mek.png"),
+                image: fs.readFileSync("./XliconMedia/theme/atas.png"),
                 caption: xmenu_oh,
               },
               {
